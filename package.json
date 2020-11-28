@@ -1,0 +1,8 @@
+{
+  "name": "gitflow-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KuryKat/gitflow-learn",
+  "author": "KuryKat <57152799+KuryKat@users.noreply.github.com>",
+  "license": "MIT"
+}
